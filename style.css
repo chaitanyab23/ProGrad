@@ -15,3 +15,5 @@ h1,h2,p{
 #idname{
     color: darkgreen;
 }
+
+p { border: medium solid; }
